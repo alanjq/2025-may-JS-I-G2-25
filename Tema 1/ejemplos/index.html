@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tema 1</title>
+    <script>
+        console.log('hola desde el HTML')
+    </script>
+    <script src="index.js"></script>
+</head>
+<body onload="cargaCompleta()">
+    <h1>Hola</h1>
+    <form>
+        <input name="nombre" placeholder="Nombre"/>
+        <input name="apellido" placeholder="Apellido"/>
+        <!-- Este botón no recarga la página -->
+        <button type="button" onclick="clic()">Clic aquí</button>
+
+        <!-- Este botón sí recarga la página -->
+        <button onclick="clic()">Este recarga la página</button>
+    </form>
+    <br>
+</body>
+</html>
