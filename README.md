@@ -9,9 +9,9 @@
 [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 
-# Desarrollo web con Javascript I (G2-25)
+# Desarrollo web con Javascript I (G02-25)
 
-[Listado de sesiones en YouTube]()
+[Listado de sesiones en YouTube](https://www.youtube.com/playlist?list=PLXDgesVAFKPaa06pZKufPvmAXImov70OT)
 
 [Checklist proyecto final](Checklist%20proyecto%20final.pdf)
 
