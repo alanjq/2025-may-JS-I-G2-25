@@ -22,7 +22,7 @@
 
 [Sesión 1 - Fundamentos de Javascript](https://youtu.be/8pNLBz2rMEc)
 
-Sesión 2 - Control de flujo
+[Sesión 2 - Control de flujo](https://youtu.be/VFj2N1AcbwI)
 
 [PDF Avance de proyecto Semana 1](Avance%20de%20proyecto%201.pdf)
 
