@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tema 2</title>
+    <script src="tema2.js"></script>
+</head>
+<body>
+    <h1>Tema 2</h1>
+    <h2>Control de flujo</h2>
+
+    <h1>
+        <small id="reloj_dia">{dia}</small> <br/>
+        <label id="reloj_hora">{hora}</label>
+        :
+        <label id="reloj_minuto">{12}</label>
+        <label id="reloj_tiempo">{pm}</label><br/>
+
+        <small id="reloj_fecha_numero">{22}</small>
+        <small id="reloj_fecha">de</small>
+        <small id="reloj_mes">{mayo}</small>
+    </h1>
+
+    <button type="button" onclick="actualizarReloj()">Actualizar hora</button>
+    
+    <br>
+    <hr/>
+    <input type="text" id="input1" placeholder="Ingresa el número 1" />
+    <input type="text" id="input2" placeholder="Ingresa el número 2"/>
+    <button type="button" onclick="validarNumeroDeInput()">Sumar</button>
+    <label id="resultadoValidacion"></label>
+</body>
+</html>
