@@ -28,15 +28,14 @@
 
 ## Semana 2
 
-Sesión 3 - Funciones
+[Sesión 3 - Funciones](https://youtu.be/5OxO4llBO2o)
 
 Sesión 4 - Arreglos y objetos
 
 [PDF Avance de proyecto Semana 2](Avance%20de%20proyecto%202.pdf)
 
 ## Semana 3
-Sesión 5 - Programación orientada a o
-bjetos
+Sesión 5 - Programación orientada a objetos
 
 Sesión 6 - Programación funcional
 
