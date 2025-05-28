@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="controlflujo.js"></script>
+    <script src="localstorage.js"></script>
+</head>
+<body onload="actualizarInformacion()">
+    <h1>Usando local storage</h1>
+    <h2>Hola, {nombre}</h2>
+    <label id="ultconex">Última conexión</label>
+    <span>{fecha}</span>
+
+    <br />
+    <br />
+    <input id="nombre" placeholder="Nombre nuevo" />
+    <button type="button" onclick="borrarNombre()">Borrar nombre</button>
+    <button type="button" onclick="borrarConexion()">Borrar última conexión</button>
+    <button type="button" onclick="actualizarConexion()">Actualizar última conexión</button>
+    <button type="button" onclick="borrarTodo()">Borrar todo</button>
+</body>
+</html>
