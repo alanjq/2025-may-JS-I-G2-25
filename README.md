@@ -30,7 +30,7 @@
 
 [Sesión 3 - Funciones](https://youtu.be/5OxO4llBO2o)
 
-Sesión 4 - Arreglos y objetos
+[Sesión 4 - Arreglos y objetos](https://youtu.be/h7LxLitt3Ec)
 
 [PDF Avance de proyecto Semana 2](Avance%20de%20proyecto%202.pdf)
 
