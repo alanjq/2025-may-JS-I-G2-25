@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="prototype.js"></script>
+    <script src="index.js"></script>
+    <script src="arreglos.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+    <ion-icon name="heart"></ion-icon>
+    <ion-icon name="checkmark-circle-outline"></ion-icon>
+    <ion-icon name="close-circle-outline"></ion-icon>
+
+    <legend>
+        Ingreso
+        <br/>
+        <input type="number" id="ingreso_valor" placeholder="Valor" />
+        <input id="ingreso_descripcion" placeholder="Descripción" />
+    </legend>
+    <button type="button" id="agregar_ingreso" onclick="agregarIngreso()">
+        Agregar
+        <ion-icon name="checkmark-circle-outline"></ion-icon>
+    </button>
+
+    <ul id="lista_ingresos"></ul>
+
+</body>
+</html>
