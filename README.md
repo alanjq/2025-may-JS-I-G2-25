@@ -35,7 +35,8 @@
 [PDF Avance de proyecto Semana 2](Avance%20de%20proyecto%202.pdf)
 
 ## Semana 3
-Sesión 5 - Programación orientada a objetos
+
+[Sesión 5 - Programación orientada a objetos](https://youtu.be/81F4cPKfK0Q)
 
 Sesión 6 - Programación funcional
 
