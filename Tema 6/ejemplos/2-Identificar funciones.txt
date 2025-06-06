@@ -1,0 +1,22 @@
+1- Identificar lo que necesito
+obtenerInventario(){
+    return {frutas, congelados, alacena}
+}
+
+2- Reunir los contenedores
+reunirContenedores(){
+
+    return empaques
+}
+
+3- Ir al supermercado
+irAlSupermercado(){}
+
+4- Realizar la Compra
+realizarCompra{
+    consultarProductos()
+    pagar()
+    empacar()
+    salir()
+}
+5- Regresar a casa

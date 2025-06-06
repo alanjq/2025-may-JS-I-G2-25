@@ -1,0 +1,15 @@
+// Programación funcional
+// Comprar insumos en el súper
+1- Identificar lo que necesito
+    - Revisar las fruta
+    - Revisar el congelador
+    - Revisar la alacena
+2- Reunir los contenedores
+    - Bolsas, canastos
+3- Ir al supermercado
+4- Realizar la Compra
+    - Buscar los insumos dentro del supermercado
+    - Pagar
+    - Empacar
+    - Salir
+5- Regresar a casa
