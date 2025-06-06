@@ -38,7 +38,7 @@
 
 [Sesión 5 - Programación orientada a objetos](https://youtu.be/81F4cPKfK0Q)
 
-Sesión 6 - Programación funcional
+[Sesión 6 - Programación funcional](https://youtu.be/c42Q8x2y5h8)
 
 [PDF Avance de proyecto Semana 3](Avance%20de%20proyecto%203.pdf)
 
