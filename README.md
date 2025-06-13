@@ -53,3 +53,8 @@ Sesión 8
 Sesión 9
 
 Sesión 10
+
+
+https://fakestoreapi.com/
+
+https://jsonplaceholder.typicode.com/
