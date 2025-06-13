@@ -43,7 +43,7 @@
 [PDF Avance de proyecto Semana 3](Avance%20de%20proyecto%203.pdf)
 
 ## Semana 4
-Sesión 7
+[Sesión 7 - Manejo del DOM](https://youtu.be/DRlP8lPVqXk)
 
 Sesión 8
 
