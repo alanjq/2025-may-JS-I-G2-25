@@ -43,13 +43,14 @@
 [PDF Avance de proyecto Semana 3](Avance%20de%20proyecto%203.pdf)
 
 ## Semana 4
+
 [Sesión 7 - Manejo del DOM](https://youtu.be/DRlP8lPVqXk)
 
-Sesión 8
 
-[PDF Avance de proyecto Semana 4](Avance%20de%20proyecto%204.pdf)
+[Sesión 8 - PDF Avance de proyecto Semana 4](Avance%20de%20proyecto%204.pdf)
 
 ## Semana 5
+
 [Sesión 9 - Avance de proyecto grupal](https://youtu.be/73mcOmW44OM)
 
 Sesión 10
